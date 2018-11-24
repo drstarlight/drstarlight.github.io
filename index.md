@@ -1,5 +1,5 @@
 # Welcome to dr.starlight website
 
 ## projects
-1. ?aliens
-2. pastebin downloader
+1. [?aliens](/game)
+2. [pastebin downloader](/pbindl)
